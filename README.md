@@ -39,68 +39,72 @@
 
 <hr>
 
-**8. Use `code <name_of_project>` to open in editor** <br/>
+**8. Use `git clone <link>` to clone your project from GitHub** <br/>
+
+<hr>
+
+**9. Use `code <name_of_project>` to open in editor** <br/>
 
 ![image](https://user-images.githubusercontent.com/117285041/199547395-20943161-dd27-429b-a388-f25c175a726a.png)
 
 <hr>
 
-**9. Press `Ctrl + Shift + ~` to open terminal**
+**10. Press `Ctrl + Shift + ~` to open terminal**
 
 <hr>
 
-**10. Use `npm install` or just `npm i` to install dependencies**
+**11. Use `npm install` or just `npm i` to install dependencies**
 
 <hr>
 
-**11. Use `git checkout -b develop` to switch branch**
+**12. Use `git checkout -b develop` to switch branch**
 
 <hr>
 
-**12. Use `npm start` to start project in browser**
+**13. Use `npm start` to start project in browser**
 
 <hr>
 
-**13. Check README.md and complete tasks**
+**14. Check README.md and complete tasks**
 
 <hr>
 
-**14. After all tasks completed use `npm run lint` and if you have some problems fix it**
+**15. After all tasks completed use `npm run lint` and if you have some problems fix it**
 
 <hr>
 
-**15. Then use `git add src/.` to add files which you will commit**
+**16. Then use `git add src/.` to add files which you will commit**
 
 <hr>
 
-**16. Use `git commit -m '<name_of_commit>'` to commit added files**
+**17. Use `git commit -m '<name_of_commit>'` to commit added files**
 
 <hr>
 
-**17. Use `git push origin develop` to push your commits on github**
+**18. Use `git push origin develop` to push your commits on github**
 
 <hr>
 
-**18. Use `npm run deploy` to publish your project on gh-pages (path to your `index.html` must be `src/index.html`)**
+**19. Use `npm run deploy` to publish your project on gh-pages (path to your `index.html` must be `src/index.html`)**
 
 <hr>
 
-**19. Go to pull requests** <br/>
+**20. Go to pull requests** <br/>
 
 ![image](https://user-images.githubusercontent.com/117285041/199559699-dfc6447c-4b4b-4af4-863b-8d39c76e657e.png)
 
 <hr>
 
-**20. Press `New pull request`** <br/>
+**21. Press `New pull request`** <br/>
 
 ![image](https://user-images.githubusercontent.com/117285041/199559923-eeb25ac7-715c-4c35-9c7d-3d5f725e5966.png)
 
 <hr>
 
-**21. Choose branch with your commits** <br/>
+**22. Choose branch with your commits** <br/>
 
 ![image](https://user-images.githubusercontent.com/117285041/199559777-d77ff049-ae3c-4b42-b5d6-e509e55ae696.png)
 
 <hr>
 
-**22. In description left link to your project on gh-pages from README.md**
+**23. In description left link to your project on gh-pages from README.md**
